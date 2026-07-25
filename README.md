@@ -27,7 +27,7 @@ A modern Spotify-inspired music player built using **HTML, CSS, and Vanilla Java
 
 ## Project Structure
 
-
+```
 Spotify/
 │
 ├── CSS/
@@ -40,7 +40,7 @@ Spotify/
 │
 ├── spotify.html
 └── README.md
-
+```
 ## Future Improvements
 
 - Search songs
